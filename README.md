@@ -1,4 +1,4 @@
-<h2>(Namaste)🙏🏻, I'm Denir Damasceno Jr! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> Peace 🙏🏻, I'm Denir Damasceno Jr! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="230">
 
 
