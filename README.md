@@ -15,7 +15,7 @@ const denir = {
     askMeAbout: ["web dev", "tech", "musitian"],
     technologies: {
         frontEnd: {
-            js: ["Angular", "Rxjs", "Jasmine"],
+            js: ["Angular", "Rxjs", "Jasmine", "NgRx", "React"],
             css: ["materialize", "angular material", "grid", "flex box", "bootstrap"]
         },
         backEnd: {
