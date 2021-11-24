@@ -1,6 +1,4 @@
 <h2> Peace 🙏🏻, I'm Denir Damasceno Jr! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="230">
-
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/denirdamasceno?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-denir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denir-damasceno-jr/)](https://www.linkedin.com/in/denir-damasceno-jr/)
