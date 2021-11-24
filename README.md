@@ -8,8 +8,7 @@
 
 ```javascript
 const denir = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Golang", "Jasmine"],
+    code: ["Javascript", "Typescript", "Golang", "Jasmine" , "Html", "Css", "Bash"],
     askMeAbout: ["web dev", "tech", "musitian"],
     technologies: {
         frontEnd: {
