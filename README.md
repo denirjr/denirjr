@@ -9,7 +9,7 @@
 ```javascript
 const denir = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Golang"],
+    code: ["Javascript", "Typescript", "Golang", "Jasmine"],
     askMeAbout: ["web dev", "tech", "musitian"],
     technologies: {
         frontEnd: {
@@ -17,11 +17,11 @@ const denir = {
             css: ["Materialize", "Angular material", "Grid", "Flex box", "Bootstrap", "Sass", "Scss", "Less"]
         },
         backEnd: {
-            js: ["Node", "Express", "NestJs"],
+            js: ["Node", "Express", "NestJs", "Golang"],
         },
         devOps: ["AWS", "Docker🐳", "Firebase", "Kubernetes", "Openshift", "Jenkins"],
         databases: ["Mongo", "MySql"],
-        misc: ["Cypress", "Jest", "Karma"]
+        misc: ["Cypress", "Jest", "Karma" "Jasmine"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Microfrontends"],
 };
