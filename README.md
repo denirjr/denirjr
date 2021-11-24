@@ -15,17 +15,17 @@ const denir = {
     askMeAbout: ["web dev", "tech", "musitian"],
     technologies: {
         frontEnd: {
-            js: ["Angular", "Rxjs", "Jasmine", "NgRx", "React"],
-            css: ["materialize", "angular material", "grid", "flex box", "bootstrap"]
+            js: ["Angular", "Webpack" "Rxjs", "Jasmine", "NgRx", "React", "Functional programing", "Reactive programing"],
+            css: ["Materialize", "Angular material", "Grid", "Flex box", "Bootstrap", "Sass", "Scss", "Less"]
         },
         backEnd: {
-            js: ["node", "express", "NestJs"],
+            js: ["Node", "Express", "NestJs"],
         },
         devOps: ["AWS", "Docker🐳", "Firebase", "Kubernetes", "Openshift", "Jenkins"],
-        databases: ["mongo", "MySql"],
+        databases: ["Mongo", "MySql"],
         misc: ["Cypress", "Jest", "Karma"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Microfrontends"],
 };
 ```
 
