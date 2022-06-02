@@ -1,6 +1,5 @@
 <h2> Peace 🙏🏻, I'm Denir Damasceno Jr! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/denirdamasceno?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-denir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denir-damasceno-jr/)](https://www.linkedin.com/in/denir-damasceno-jr/)
 ![GitHub followers](https://img.shields.io/github/followers/denirjr?label=Follow&style=social)
 
@@ -9,20 +8,21 @@
 ```javascript
 const denir = {
     code: ["Javascript", "Typescript", "Golang", "Jasmine" , "Html", "Css", "Bash"],
-    askMeAbout: ["web dev", "tech", "musitian"],
+    askMeAbout: ["web dev", "tech", "front-end"],
     technologies: {
         frontEnd: {
-            js: ["Angular", "Webpack" "Rxjs", "Jasmine", "NgRx", "React", "Functional programing", "Reactive programing"],
-            css: ["Materialize", "Angular material", "Grid", "Flex box", "Bootstrap", "Sass", "Scss", "Less"]
+            js: ["Angular", "NextJs", "Webpack" "Rxjs", "Jasmine", "ReactJs"],
+            Test: ["Cypress", "Jest", "Karma" "Jasmine"],
+            css: ["Materialize", "Angular material", "Grid", "Flex box", "Bootstrap", "Sass", "Scss", "Less", "styled-compoents", "tailwind" ]
         },
         backEnd: {
             js: ["Node", "Express", "NestJs", "Golang"],
         },
         devOps: ["AWS", "Docker🐳", "Firebase", "Kubernetes", "Openshift", "Jenkins"],
         databases: ["Mongo", "MySql"],
-        misc: ["Cypress", "Jest", "Karma" "Jasmine"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Microfrontends"],
+    architecture: ["Serverless Architecture", "PWA", "SPA", "Microfrontends", "MVC", "hexagonal", "Microservices"],
+    Others: ["Solid", "Clean Code", "Observer pattern", "Event Sourcing", "Pub Subscriber"]
 };
 ```
 
