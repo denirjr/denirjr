@@ -7,21 +7,21 @@
 
 ```javascript
 const denir = {
-    code: ["Javascript", "Typescript", "Golang", "Jasmine" , "Html", "Css", "Bash"],
-    askMeAbout: ["web dev", "tech", "front-end"],
+    code: ["Javascript", "Typescript", "Jasmine" , "Html", "Css", "Bash"],
+    askMeAbout: ["web dev", "tech", "front-end", "back-end", "devOps", "Architecture"],
     technologies: {
         frontEnd: {
-            js: ["Angular", "NextJs", "Webpack" "Rxjs", "Jasmine", "ReactJs"],
+            js: ["Angular", "NextJs", "Bundlers in general" "Rxjs", "Jasmine", "ReactJs", "and more"],
             Test: ["Cypress", "Jest", "Karma" "Jasmine"],
-            css: ["Materialize", "Angular material", "Grid", "Flex box", "Bootstrap", "Sass", "Scss", "Less", "styled-compoents", "tailwind" ]
+            css: ["Materialize", "Angular material", "Grid", "Flex box", "Bootstrap", "Sass", "Scss", "Less", "styled-compoents", "tailwind", "and more" ]
         },
         backEnd: {
-            js: ["Node", "Express", "NestJs", "Golang"],
+            js: ["Node", "Express", "NestJs", "Golang", "Spring Boot"],
         },
-        devOps: ["AWS", "Docker🐳", "Firebase", "Kubernetes", "Openshift", "Jenkins"],
+        devOps: ["AWS", "Docker🐳", "Firebase", "Kubernetes", "Openshift", "Jenkins" and more],
         databases: ["Mongo", "MySql"],
     },
-    architecture: ["Serverless Architecture", "PWA", "SPA", "Microfrontends", "MVC", "hexagonal", "Microservices"],
+    architecture: ["Serverless Architecture", "PWA", "SPA", "Microfrontends", "MVC", "MVVM", "hexagonal", "Microservices", "Clean architecture", "and more"],
     Others: ["Solid", "Clean Code", "Observer pattern", "Event Sourcing", "Pub Subscriber"]
 };
 ```
